@@ -1,7 +1,7 @@
 # 📁 Fashion-MNIST-Image-Classification
-Google Collab Link Here: https://colab.research.google.com/drive/1um7CQ3d8SQdmaXeQ552jFPIcyo1Z9G7e?usp=sharing
+**Google Collab Link Here:** https://colab.research.google.com/drive/1um7CQ3d8SQdmaXeQ552jFPIcyo1Z9G7e?usp=sharing
 
-Questions
+**Questions**
 
 **1. What is the Fashion MNIST dataset?**
 Fashion-MNIST dataset is a public image dataset commonly used in machine learning and computer vision, especially for training and testing classification models.
